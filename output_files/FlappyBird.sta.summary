@@ -1,0 +1,149 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'U1|video_PLL_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -10.610
+TNS   : -125.729
+
+Type  : Slow 1200mV 85C Model Setup 'VGA_SYNC_module:U1|pixel_column[0]'
+Slack : -8.539
+TNS   : -85.636
+
+Type  : Slow 1200mV 85C Model Setup 'CLOCK_50'
+Slack : -5.939
+TNS   : -464.549
+
+Type  : Slow 1200mV 85C Model Setup 'VGA_SYNC_module:U1|vert_sync_out'
+Slack : -5.237
+TNS   : -315.370
+
+Type  : Slow 1200mV 85C Model Hold 'U1|video_PLL_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.401
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'VGA_SYNC_module:U1|vert_sync_out'
+Slack : 0.403
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CLOCK_50'
+Slack : 0.428
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'VGA_SYNC_module:U1|pixel_column[0]'
+Slack : 1.000
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'VGA_SYNC_module:U1|vert_sync_out'
+Slack : -1.285
+TNS   : -132.355
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'VGA_SYNC_module:U1|pixel_column[0]'
+Slack : -0.253
+TNS   : -10.350
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.547
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'U1|video_PLL_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 19.700
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'U1|video_PLL_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -9.443
+TNS   : -111.752
+
+Type  : Slow 1200mV 0C Model Setup 'VGA_SYNC_module:U1|pixel_column[0]'
+Slack : -8.054
+TNS   : -81.728
+
+Type  : Slow 1200mV 0C Model Setup 'CLOCK_50'
+Slack : -5.248
+TNS   : -401.619
+
+Type  : Slow 1200mV 0C Model Setup 'VGA_SYNC_module:U1|vert_sync_out'
+Slack : -4.628
+TNS   : -280.153
+
+Type  : Slow 1200mV 0C Model Hold 'U1|video_PLL_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.353
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'VGA_SYNC_module:U1|vert_sync_out'
+Slack : 0.354
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'CLOCK_50'
+Slack : 0.395
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'VGA_SYNC_module:U1|pixel_column[0]'
+Slack : 1.009
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'VGA_SYNC_module:U1|vert_sync_out'
+Slack : -1.285
+TNS   : -132.355
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'VGA_SYNC_module:U1|pixel_column[0]'
+Slack : -0.254
+TNS   : -6.851
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.555
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'U1|video_PLL_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 19.692
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'U1|video_PLL_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -4.938
+TNS   : -58.483
+
+Type  : Fast 1200mV 0C Model Setup 'VGA_SYNC_module:U1|pixel_column[0]'
+Slack : -3.967
+TNS   : -41.670
+
+Type  : Fast 1200mV 0C Model Setup 'CLOCK_50'
+Slack : -2.981
+TNS   : -243.878
+
+Type  : Fast 1200mV 0C Model Setup 'VGA_SYNC_module:U1|vert_sync_out'
+Slack : -2.234
+TNS   : -106.854
+
+Type  : Fast 1200mV 0C Model Hold 'U1|video_PLL_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.181
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'VGA_SYNC_module:U1|vert_sync_out'
+Slack : 0.181
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLOCK_50'
+Slack : 0.188
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'VGA_SYNC_module:U1|pixel_column[0]'
+Slack : 0.486
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'VGA_SYNC_module:U1|vert_sync_out'
+Slack : -1.000
+TNS   : -103.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'VGA_SYNC_module:U1|pixel_column[0]'
+Slack : -0.098
+TNS   : -2.270
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.199
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'U1|video_PLL_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 19.780
+TNS   : 0.000
+
+------------------------------------------------------------
